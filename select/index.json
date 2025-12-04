@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ジェリー",
+  "base_artist": "Lunv Loyal",
+  "createdAt": "2025-12-04T09:16:49.106164Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ジェリー (feat. JNKMN & Masato Hayashi)",
+      "artist": "Lunv Loyal",
+      "has_synced": false,
+      "path": "select/pl_01_ジェリー_(feat._JNKMN_&_Masato_Hayashi)_Lunv_Loyal.txt"
+    }
+  ]
+}
